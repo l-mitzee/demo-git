@@ -5,6 +5,7 @@ wageperhr=100;
 numofhrs=0;
 isFulltime=1;
 isParttime=2;
+myname=23;
 randomCheck=$((RANDOM%3));
 if [ $isFulltime -eq $randomCheck ];
 then
